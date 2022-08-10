@@ -1,0 +1,25 @@
+.app{
+  background-color:cadetblue;
+  padding: 100px;
+  text-align: center;
+  font-style: italic;
+  font-family: 'Courier New', Courier, monospace;
+  display:flex;
+}
+
+
+
+li{
+  list-style-type:circle;
+  text-align: left;
+  margin: 50px;
+}
+
+li:hover {
+  background-color:aqua;
+  color: blueviolet;
+}
+
+
+
+ 
